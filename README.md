@@ -1,9 +1,15 @@
 
-Crave development tree
+the fork of Crave coin development tree
 
 Crave is a PoS-based cryptocurrency.
 
 Development process
+===========================
+apt-get install boost
+apt-get install libboost-dev
+apt-get install openssl
+apt-get install libssl-dev
+apt-get install libdb5.1++-dev
 ===========================
 
 Developers work in their own trees, then submit pull requests when
