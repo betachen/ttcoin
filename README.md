@@ -10,6 +10,7 @@ Development process
 * apt-get install openssl
 * apt-get install libssl-dev
 * apt-get install libdb5.1++-dev
+* apt-get install libminiupnpc-dev
 
 
 
