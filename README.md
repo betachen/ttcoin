@@ -1,7 +1,6 @@
+A fork of Crave coin development tree
 
-the fork of Crave coin development tree
-
-Crave is a PoS-based cryptocurrency.
+ttcoin(Crave) is a PoS-based cryptocurrency.
 
 Development process
 ===========================
@@ -11,8 +10,12 @@ Development process
 * apt-get install libdb5.3++-dev
 * apt-get install libminiupnpc-dev
 
+cd ttcoin/src && make
+RUN:  ./ttcoind
 
 
+comments by crave coin
+===
 Developers work in their own trees, then submit pull requests when
 they think their feature or bug fix is ready.
 
